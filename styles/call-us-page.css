@@ -1,0 +1,107 @@
+.call-us-container {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.holiday-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+
+}
+
+.holiday {
+    width: 90%;
+}
+.address-grid-container {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-self: center;
+}
+.call-us-icon-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.call-us-icon {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.call-us-icon-two {
+    flex: 5;
+}
+.map-container {
+    display: flex;
+}
+
+.address-container {
+    flex: 6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+
+.map {
+    flex: 5;
+}
+
+.form-container {
+
+    box-shadow: 2px 2px 10px 2px #ddd5DA;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+}
+.three-text {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+}
+
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.your-message {
+    width: 525px;
+}
+
+.message-box-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.message-box {
+    width: 92%;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #f0f2f8;
+}
+.sent-container {
+    display: inline-flex;
+    justify-content: flex-end;
+    flex-direction: row;
+
+    width: 96%;
+}
+.call {
+    display: flex;
+    justify-content: flex-start;
+}

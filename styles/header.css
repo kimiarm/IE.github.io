@@ -1,0 +1,81 @@
+.menu-container {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background-color: #ffffff;
+    padding: 20px 0;
+
+}
+
+.menu {
+    border: 1px solid #fff;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.up-bottuns {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.upper-brand {
+
+    font-size: 30px;
+    color: #666666;
+}
+
+.tab-bar-container {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+
+.tab-bar {
+    color: #666666;
+    border: 1px solid #fff;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.big-buttons-container {
+
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    flex-direction: column;
+    align-items: center;
+}
+
+.big-buttons {
+
+
+    width: 62%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.navbar:hover{
+    text-decoration: underline;
+}
+.navbar:active{
+    text-decoration: underline;
+}
+.search {
+
+    border-radius: 80px;
+    background: white url(search.png) left no-repeat;
+}
+
+.search:hover {
+    background: white url(search-blue.png) left no-repeat;
+    border: 1px solid #3b55ef;
+}
+.brand {
+    font-size: 24px;
+    font-family: 'Shabnam', sans-serif;
+}

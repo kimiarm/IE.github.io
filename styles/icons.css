@@ -1,0 +1,119 @@
+.angle-icon{
+    background: white url("../images/icons/angle.png") center no-repeat;
+}
+.angle-icon:hover{
+    background: white url("../images/icons/angle-blue.png") center no-repeat;
+}
+.angle-icon:active{
+    background: white url("../images/icons/angle-blue.png") center no-repeat;
+}
+.angle-blue-icon{
+    background: white url("../images/icons/angle-blue.png") center no-repeat;
+}
+
+.about-us-icon{
+    background: white url("../images/icons/dialog.png") center no-repeat;
+}
+.about-us-icon:hover{
+    background: white url("../images/icons/blue-dialog.png") center no-repeat;
+}
+.about-us-icon:active{
+    background: white url("../images/icons/blue-dialog.png") center no-repeat;
+}
+.about-us-blue-icon
+{
+    background: white url("../images/icons/blue-dialog.png") center no-repeat;
+}
+.call-icon{
+    background: white url("../images/icons/mail-bottun.png") center no-repeat;
+}
+.call-blue-icon{
+    background: white url("../images/icons/mail-bottun-blue.png") center no-repeat;
+}
+.call-icon:hover{
+    background: white url("../images/icons/mail-bottun-blue.png") center no-repeat;
+}
+.call-icon:active{
+    background: white url("../images/icons/mail-bottun-blue.png") center no-repeat;
+}
+.private-icon{
+    background: white url("../images/icons/lock.png") center no-repeat;
+}
+.private-icon:hover{
+    background: white url("../images/icons/lock-blue.png") center no-repeat;
+}
+.private-icon:active{
+    background: white url("../images/icons/lock-blue.png") center no-repeat;
+}
+.question-icon{
+    background: white url("../images/icons/question.png") center no-repeat;
+}
+.question-icon:hover{
+    background: white url("../images/icons/question-blue.png") center no-repeat;
+}
+.question-icon:active{
+    background: white url("../images/icons/question-blue.png") center no-repeat;
+}
+.user-icon{
+    background: white url("../images/icons/user.png") center no-repeat;
+}
+.user-icon:hover{
+    background: white url("../images/icons/user-blue.png") center no-repeat;
+}
+.user-icon:active{
+    background: white url("../images/icons/user-blue.png") center no-repeat;
+}
+.google-icon{
+    background: white url("../images/icons/google.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.google-icon:hover{
+    background: white url("../images/icons/google-blue.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.google-icon:active{
+    background: white url("../images/icons/google-blue.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.facebook-icon{
+    background: white url("../images/icons/facebook.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.facebook-icon:hover{
+    background: white url("../images/icons/facebook-blue.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.facebook-icon:active{
+    background: white url("../images/icons/facebook-blue.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.tweeter-icon{
+    background: white url("../images/icons/tweeter.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.tweeter-icon:hover{
+    background: white url("../images/icons/tweeter-blue.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
+.tweeter-icon:active{
+    background: white url("../images/icons/tweeter-blue.png") center no-repeat;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+}
